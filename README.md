@@ -17,3 +17,6 @@ bash CheckIP.sh
 <h2>ფოტო</h2>
 
 ![Preview](https://i.ibb.co/rcYvv07/foto-no-exif.png)
+
+<h2>ვიდეო</h2>
+<a href="https://www.youtube.com/watch?v=y5n6pvlQJt4"><img src="https://i.ibb.co/XCB5MGC/foto-no-exif.png" style="max-width:100%;"></a>
