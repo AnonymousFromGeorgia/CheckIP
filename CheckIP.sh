@@ -4,6 +4,7 @@ clear
 
 figlet CheckIP
 
+echo "https://github.com/AnonymousFromGeorgia/CheckIP"
 echo "Coded by გიო რგი"
 echo "შეამოწმე საკუთარი Public IP Address"
 
