@@ -4,8 +4,8 @@ clear
 
 figlet CheckIP
 
-echo "https://github.com/AnonymousFromGeorgia/CheckIP"
 echo "Coded by გიო რგი"
+echo "https://github.com/AnonymousFromGeorgia/CheckIP"
 echo "შეამოწმე საკუთარი Public IP Address"
 
 PS3='გთხოვთ, აირჩიეთ პარამეტრი: '
