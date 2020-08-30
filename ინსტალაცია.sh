@@ -5,7 +5,8 @@
 #https://Github.com/AnonymousFromGeorgia
 #https://Facebook.com/anonimaluri
 #https://Twitter.com/anonimaluri
-#https://anonymousfg.rivyt.com
+#https://fsociety.ge
+#https://forum.fsociety.ge
 
 trap 'პროგრამა ითიშება...; exit 1;' SIGINT SIGTSTP
 
